@@ -111,11 +111,11 @@
         {
             "id":1,
             "presidentName":"M.Mohamed RiyaZ",
-            "presidentImage":"../src/assets/districtLeaders/vaniyambadi.jpg",
+            "presidentImage":"../src/assets/districtLeaders/riyaz.jpg",
             "secretaryName":"TM. Habeeb Rahman",
-            "secretaryImage":"",
+            "secretaryImage":"../src/assets/districtLeaders/habeeb.jpg",
             "secretaryName2":"Muhammad Jaafar",
-             "secretaryImage2":""
+             "secretaryImage2":"../src/assets/districtLeaders/sec2.jpg"
             
         }
     ]
