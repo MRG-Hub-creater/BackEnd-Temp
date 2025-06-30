@@ -131,11 +131,11 @@
         "presidentName":"Sinuj Ahamed",
         "presidentImage":"/images/districtLeaders/1.png",
         "secretaryName":"A.Mohamed Yasir",
-        "secretaryImage":"/images/districtLeaders/1.png",
+        "secretaryImage":"/images/districtLeaders/2.png",
         "secretaryName2":"S.Riyaz",
-        "secretaryImage2":"/images/districtLeaders/1.png",
+        "secretaryImage2":"/images/districtLeaders/3.png",
         "secretaryName3":"M.Muhammadh Riyazudeen",
-        "secretaryImage3":"/images/districtLeaders/1.png",
+        "secretaryImage3":"/images/districtLeaders/4.png",
         "Address":"no 42, Keela vasal, Thanjavur",
         "PhoneNo":987654210
     }
@@ -158,7 +158,7 @@
         {
           "id":1,
             "presidentName":"A.Kamaludeen",
-            "presidentImage":"/images/pastLeaders/kamaludeen.JPG",
+            "presidentImage":"/images/pastLeaders/kamaludeen.jpg",
             "secretaryName":"Syed Mohamed Hussain",
             "secretaryImage":"",
             "servicePeriod":"2023-2025"
@@ -166,9 +166,9 @@
          {
             "id":2,
             "presidentName":"Dr.Abdul Hakeem",
-            "presidentImage":"/images/pastLeaders/abdulHakeem.JPG",
+            "presidentImage":"/images/pastLeaders/abdulHakeem.jpg",
             "secretaryName":"A.Kamaludeen",
-            "secretaryImage":"/images/pastLeaders/kamaludeen.JPG",
+            "secretaryImage":"/images/pastLeaders/kamaludeen.jpg",
             "servicePeriod":"2021-2023"
         }
     ]
