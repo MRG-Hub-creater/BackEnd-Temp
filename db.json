@@ -20,6 +20,10 @@
         "presidentImage":"/images/districtLeaders/thanjavur.JPG",
         "secretaryName":"SalmanKhan",
         "secretaryImage":"/images/districtLeaders/thanjavurS.jpg",
+         "secretaryName2":"",
+        "secretaryImage2":"",
+         "secretaryName3":"",
+        "secretaryImage3":"",
         "Address":"no 42, Keela vasal, Thanjavur",
         "PhoneNo":987654210
 
@@ -29,6 +33,10 @@
         "presidentImage":"/images/districtLeaders/dharmapuri.jpg",
         "secretaryName":"Not yet decided",
         "secretaryImage":"",
+         "secretaryName2":"",
+        "secretaryImage2":"",
+         "secretaryName3":"",
+        "secretaryImage3":"",
         "Address":"no 42, Keela vasal, Thanjavur",
         "PhoneNo":987654210
 
@@ -38,6 +46,10 @@
         "presidentImage":"/images/districtLeaders/kayathar.jpg",
         "secretaryName":"Not yet decided",
         "secretaryImage":"",
+         "secretaryName2":"",
+        "secretaryImage2":"",
+         "secretaryName3":"",
+        "secretaryImage3":"",
         "Address":"no 42, Keela vasal, Thanjavur",
         "PhoneNo":987654210
 
@@ -48,6 +60,10 @@
         "presidentImage":"/images/districtLeaders/krishnagiri.jpg",
         "secretaryName":"Not yet decided",
         "secretaryImage":"",
+         "secretaryName2":"",
+        "secretaryImage2":"",
+         "secretaryName3":"",
+        "secretaryImage3":"",
         "Address":"no 42, Keela vasal, Thanjavur",
         "PhoneNo":987654210
 
@@ -58,6 +74,10 @@
         "presidentImage":"/images/districtLeaders/perambalur.jpg",
         "secretaryName":"Not yet decided",
         "secretaryImage":"",
+         "secretaryName2":"",
+        "secretaryImage2":"",
+         "secretaryName3":"",
+        "secretaryImage3":"",
         "Address":"no 42, Keela vasal, Thanjavur",
         "PhoneNo":987654210
 
@@ -67,6 +87,10 @@
         "presidentImage":"/images/districtLeaders/trichy.jpg",
         "secretaryName":"Sheik Abdullah Sha",
         "secretaryImage":"/images/districtLeaders/trichyS.jpg",
+         "secretaryName2":"",
+        "secretaryImage2":"",
+         "secretaryName3":"",
+        "secretaryImage3":"",
         "Address":"no 42, Keela vasal, Thanjavur",
         "PhoneNo":987654210
 
@@ -76,6 +100,10 @@
         "presidentImage":"/images/districtLeaders/salem.jpg",
         "secretaryName":"Not yet decided",
         "secretaryImage":"",
+         "secretaryName2":"",
+        "secretaryImage2":"",
+         "secretaryName3":"",
+        "secretaryImage3":"",
         "Address":"no 42, Keela vasal, Thanjavur",
         "PhoneNo":987654210
 
@@ -85,6 +113,10 @@
         "presidentImage":"/images/districtLeaders/udumalai.jpg",
         "secretaryName":"Not yet decided",
         "secretaryImage":"",
+         "secretaryName2":"",
+        "secretaryImage2":"",
+         "secretaryName3":"",
+        "secretaryImage3":"",
         "Address":"no 42, Keela vasal, Thanjavur",
         "PhoneNo":987654210
 
@@ -94,6 +126,10 @@
         "presidentImage":"/images/districtLeaders/vaniyambadi.jpg",
         "secretaryName":"Not yet decided",
         "secretaryImage":"",
+         "secretaryName2":"",
+        "secretaryImage2":"",
+         "secretaryName3":"",
+        "secretaryImage3":"",
         "Address":"no 42, Keela vasal, Thanjavur",
         "PhoneNo":987654210
 
@@ -104,6 +140,10 @@
         "presidentImage":"/images/districtLeaders/manapparai.jpg",
         "secretaryName":"",
         "secretaryImage":"",
+         "secretaryName2":"",
+        "secretaryImage2":"",
+         "secretaryName3":"",
+        "secretaryImage3":"",
         "Address":"no 42, Keela vasal, Thanjavur",
         "PhoneNo":987654210
     },{
@@ -113,6 +153,10 @@
         "presidentImage":"/images/districtLeaders/theni.jpg",
         "secretaryName":"",
         "secretaryImage":"",
+         "secretaryName2":"",
+        "secretaryImage2":"",
+         "secretaryName3":"",
+        "secretaryImage3":"",
         "Address":"no 42, Keela vasal, Thanjavur",
         "PhoneNo":987654210
     },
@@ -123,6 +167,10 @@
         "presidentImage":"/images/districtLeaders/thirumangalam.jpg",
         "secretaryName":"",
         "secretaryImage":"",
+         "secretaryName2":"",
+        "secretaryImage2":"",
+         "secretaryName3":"",
+        "secretaryImage3":"",
         "Address":"no 42, Keela vasal, Thanjavur",
         "PhoneNo":987654210
     },{
@@ -144,11 +192,11 @@
     "state":[
         {
             "id":1,
-            "presidentName":"M.Mohamed RiyaZ",
+            "presidentName":"M.Mohamed Riyaz",
             "presidentImage":"/images/districtLeaders/riyaz.png",
-            "secretaryName":"TM. Habeeb Rahman",
+            "secretaryName":"Habeeb Rahman",
             "secretaryImage":"/images/districtLeaders/habeeb.jpg",
-            "secretaryName2":"Muhammad Jaafar",
+            "secretaryName2":"Jaafar Shathik A",
              "secretaryImage2":"/images/districtLeaders/sec2.jpg"
             
         }
