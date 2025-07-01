@@ -206,7 +206,7 @@
         {
           "id":1,
             "presidentName":"A.Kamaludeen",
-            "presidentImage":"/images/pastLeaders/kamaludeen.jpg",
+            "presidentImage":"/images/pastLeaders/Kamaludeen.jpg",
             "secretaryName":"Syed Mohamed Hussain",
             "secretaryImage":"",
             "servicePeriod":"2023-2025"
@@ -216,7 +216,7 @@
             "presidentName":"Dr.Abdul Hakeem",
             "presidentImage":"/images/pastLeaders/abdulHakeem.jpg",
             "secretaryName":"A.Kamaludeen",
-            "secretaryImage":"/images/pastLeaders/kamaludeen.jpg",
+            "secretaryImage":"/images/pastLeaders/Kamaludeen.jpg",
             "servicePeriod":"2021-2023"
         }
     ]
