@@ -200,6 +200,25 @@
              "secretaryImage2":"/images/districtLeaders/sec2.jpg"
             
         }
+    ],"stateExecutive":[
+        {
+        "id":1,
+        "secretaryName":"Shanawas N",
+        "secretaryImage":"/images/executiveMembers/1.png",
+        "secretaryName2":"Mujahidul Islam",
+        "secretaryImage2":"/images/executiveMembers/2.png",
+        "secretaryName3":"Nabeel Ahamed",
+        "secretaryImage3":"/images/executiveMembers/3.png",
+        "secretaryName4":"Mohammed Nayemullah",
+        "secretaryImage4":"/images/executiveMembers/4.png",
+        "secretaryName5":"Asarutheen",
+        "secretaryImage5":"/images/executiveMembers/5.png",
+        "secretaryName6":"Mohamed Nasar",
+        "secretaryImage6":"/images/executiveMembers/6.png",
+         "secretaryName7":"Sabeer Ahamed",
+        "secretaryImage7":"/images/executiveMembers/7.png"
+    }
+
     ],
     "pastLeaders":[
        
