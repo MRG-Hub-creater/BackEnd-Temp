@@ -14,19 +14,18 @@
         ]
     ,
     "district":[
-        {"id":1,
-        "districtName":"Thanjavur",
-        "presidentName":"M.Israr Ahamed",
-        "presidentImage":"/images/districtLeaders/thanjavur.JPG",
-        "secretaryName":"SalmanKhan",
-        "secretaryImage":"/images/districtLeaders/thanjavurS.jpg",
-         "secretaryName2":"",
-        "secretaryImage2":"",
-         "secretaryName3":"",
-        "secretaryImage3":"",
-        "Address":"no 42, Keela vasal, Thanjavur",
-        "PhoneNo":987654210
-
+        {
+        "id":1,
+        "districtName":"Coimbatore",
+        "presidentName":"Sinuj Ahamed",
+        "presidentImage":"/images/districtLeaders/1.png",
+        "secretaryName":"A.Mohamed Yasir",
+        "secretaryImage":"/images/districtLeaders/2.png",
+        "secretaryName2":"S.Riyaz",
+        "secretaryImage2":"/images/districtLeaders/3.png",
+        "secretaryName3":"M.Muhammadh Riyazudeen",
+        "secretaryImage3":"/images/districtLeaders/4.png"
+     
     },{"id":2,
         "districtName":"Dharmapuri",
         "presidentName":"Haaris",
@@ -36,10 +35,8 @@
          "secretaryName2":"",
         "secretaryImage2":"",
          "secretaryName3":"",
-        "secretaryImage3":"",
-        "Address":"no 42, Keela vasal, Thanjavur",
-        "PhoneNo":987654210
-
+        "secretaryImage3":""
+       
     },{"id":3,
         "districtName":"Kayathar",
         "presidentName":"Abdul Kareem Anas",
@@ -49,12 +46,9 @@
          "secretaryName2":"",
         "secretaryImage2":"",
          "secretaryName3":"",
-        "secretaryImage3":"",
-        "Address":"no 42, Keela vasal, Thanjavur",
-        "PhoneNo":987654210
-
-    },
-   {"id":4,
+        "secretaryImage3":""
+      
+    },{"id":4,
         "districtName":"Krishnagiri",
         "presidentName":"Ashwaq Ahamed",
         "presidentImage":"/images/districtLeaders/krishnagiri.jpg",
@@ -63,12 +57,22 @@
          "secretaryName2":"",
         "secretaryImage2":"",
          "secretaryName3":"",
-        "secretaryImage3":"",
-        "Address":"no 42, Keela vasal, Thanjavur",
-        "PhoneNo":987654210
+        "secretaryImage3":""
+       
 
-    },
-    {"id":5,
+    },{
+        "id":5,
+        "districtName":"Manapparai",
+        "presidentName":"H.Mohammed Ubaithulla",
+        "presidentImage":"/images/districtLeaders/manapparai.jpg",
+        "secretaryName":"",
+        "secretaryImage":"",
+         "secretaryName2":"",
+        "secretaryImage2":"",
+         "secretaryName3":"",
+        "secretaryImage3":""
+      
+    },{"id":6,
         "districtName":"Perambalur",
         "presidentName":"Muhammadh Ashraf",
         "presidentImage":"/images/districtLeaders/perambalur.jpg",
@@ -77,23 +81,8 @@
          "secretaryName2":"",
         "secretaryImage2":"",
          "secretaryName3":"",
-        "secretaryImage3":"",
-        "Address":"no 42, Keela vasal, Thanjavur",
-        "PhoneNo":987654210
-
-    },{"id":6,
-        "districtName":"Trichy",
-        "presidentName":"Muhammadh Riyasudeen",
-        "presidentImage":"/images/districtLeaders/trichy.jpg",
-        "secretaryName":"Sheik Abdullah Sha",
-        "secretaryImage":"/images/districtLeaders/trichyS.jpg",
-         "secretaryName2":"",
-        "secretaryImage2":"",
-         "secretaryName3":"",
-        "secretaryImage3":"",
-        "Address":"no 42, Keela vasal, Thanjavur",
-        "PhoneNo":987654210
-
+        "secretaryImage3":""
+        
     },{"id":7,
         "districtName":"Salem",
         "presidentName":"Muhammadh siraj",
@@ -103,51 +92,23 @@
          "secretaryName2":"",
         "secretaryImage2":"",
          "secretaryName3":"",
-        "secretaryImage3":"",
-        "Address":"no 42, Keela vasal, Thanjavur",
-        "PhoneNo":987654210
+        "secretaryImage3":""
+        
 
-    },{"id":8,
-        "districtName":"Udumalai",
-        "presidentName":"Jahangir",
-        "presidentImage":"/images/districtLeaders/udumalai.jpg",
-        "secretaryName":"Not yet decided",
-        "secretaryImage":"",
+    },
+        {"id":8,
+        "districtName":"Thanjavur",
+        "presidentName":"M.Israr Ahamed",
+        "presidentImage":"/images/districtLeaders/thanjavur.JPG",
+        "secretaryName":"Salmankhan",
+        "secretaryImage":"/images/districtLeaders/thanjavurS.jpg",
          "secretaryName2":"",
         "secretaryImage2":"",
          "secretaryName3":"",
-        "secretaryImage3":"",
-        "Address":"no 42, Keela vasal, Thanjavur",
-        "PhoneNo":987654210
-
-    },{"id":9,
-        "districtName":"Vaniyambadi",
-        "presidentName":"Mubashir",
-        "presidentImage":"/images/districtLeaders/vaniyambadi.jpg",
-        "secretaryName":"Not yet decided",
-        "secretaryImage":"",
-         "secretaryName2":"",
-        "secretaryImage2":"",
-         "secretaryName3":"",
-        "secretaryImage3":"",
-        "Address":"no 42, Keela vasal, Thanjavur",
-        "PhoneNo":987654210
-
+        "secretaryImage3":""
+        
     },{
-        "id":10,
-        "districtName":"Manapparai",
-        "presidentName":"H.Mohammed Ubaithulla",
-        "presidentImage":"/images/districtLeaders/manapparai.jpg",
-        "secretaryName":"",
-        "secretaryImage":"",
-         "secretaryName2":"",
-        "secretaryImage2":"",
-         "secretaryName3":"",
-        "secretaryImage3":"",
-        "Address":"no 42, Keela vasal, Thanjavur",
-        "PhoneNo":987654210
-    },{
-        "id":11,
+        "id":9,
         "districtName":"Theni",
         "presidentName":"N.Harish",
         "presidentImage":"/images/districtLeaders/theni.jpg",
@@ -156,12 +117,10 @@
          "secretaryName2":"",
         "secretaryImage2":"",
          "secretaryName3":"",
-        "secretaryImage3":"",
-        "Address":"no 42, Keela vasal, Thanjavur",
-        "PhoneNo":987654210
-    },
-    {
-        "id":12,
+        "secretaryImage3":""
+       
+    },{
+        "id":10,
         "districtName":"Thirumangalam",
         "presidentName":"A.Abdul wahith",
         "presidentImage":"/images/districtLeaders/thirumangalam.jpg",
@@ -170,23 +129,48 @@
          "secretaryName2":"",
         "secretaryImage2":"",
          "secretaryName3":"",
-        "secretaryImage3":"",
-        "Address":"no 42, Keela vasal, Thanjavur",
-        "PhoneNo":987654210
-    },{
-        "id":13,
-        "districtName":"Coimbatore",
-        "presidentName":"Sinuj Ahamed",
-        "presidentImage":"/images/districtLeaders/1.png",
-        "secretaryName":"A.Mohamed Yasir",
-        "secretaryImage":"/images/districtLeaders/2.png",
-        "secretaryName2":"S.Riyaz",
-        "secretaryImage2":"/images/districtLeaders/3.png",
-        "secretaryName3":"M.Muhammadh Riyazudeen",
-        "secretaryImage3":"/images/districtLeaders/4.png",
-        "Address":"no 42, Keela vasal, Thanjavur",
-        "PhoneNo":987654210
+        "secretaryImage3":""
+       
+    },
+   
+    {"id":11,
+        "districtName":"Trichy",
+        "presidentName":"Muhammadh Riyasudeen",
+        "presidentImage":"/images/districtLeaders/trichy.jpg",
+        "secretaryName":"Sheik Abdullah Sha",
+        "secretaryImage":"/images/districtLeaders/trichyS.jpg",
+         "secretaryName2":"Mohamed Ibrahim",
+        "secretaryImage2":"/images/districtLeaders/trichyJS.jpg",
+         "secretaryName3":"",
+        "secretaryImage3":""
+     
+
+    },{"id":12,
+        "districtName":"Udumalai",
+        "presidentName":"Jahangir",
+        "presidentImage":"/images/districtLeaders/udumalai.jpg",
+        "secretaryName":"Not yet decided",
+        "secretaryImage":"",
+         "secretaryName2":"",
+        "secretaryImage2":"",
+         "secretaryName3":"",
+        "secretaryImage3":""
+        
+
+    },{"id":13,
+        "districtName":"Vaniyambadi",
+        "presidentName":"Mubashir",
+        "presidentImage":"/images/districtLeaders/vaniyambadi.jpg",
+        "secretaryName":"Not yet decided",
+        "secretaryImage":"",
+         "secretaryName2":"",
+        "secretaryImage2":"",
+         "secretaryName3":"",
+        "secretaryImage3":""
+       
+
     }
+    
 
     ] ,
     "state":[
