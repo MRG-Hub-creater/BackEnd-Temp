@@ -196,8 +196,20 @@
         "secretaryImage3":""
        
 
+    },
+     {
+        "id":14,
+        "districtName":"Tiruppur",
+        "presidentName":"Abdul Malik",
+        "presidentImage":"/images/events/event1.jpg",
+        "secretaryName":"",
+        "secretaryImage":"",
+        "secretaryName2":"",
+        "secretaryImage2":"",
+        "secretaryName3":"",
+        "secretaryImage3":""
+     
     }
-    
 
     ] ,
     "state":[
