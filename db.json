@@ -28,6 +28,42 @@
             "content":"நேற்று 1/7/2025 அன்று உறுப்பினர்கள் ஊழியர்கள் ஆதரவாளர்கள் ஒருங்கிணைந்த ஆலோசனைக் கூட்டம் ஜமாத் அலுவலகத்தில் நடைபெற்றது. கூட்டத்தில் ஜமாத்தின் இளைஞர் அமைப்பு (சாலிடாரெட்டி) திருப்பூர் மாநகர தலைவருக்கான கலந்த ஆலோசனை நடைபெற்றது. அதன் அடிப்படையில் அமீரே மகாமி அவர்கள் சகோதரர், அப்துல் மாலிக் அவர்களை திருப்பூர் தலைவராக நியமனம் செய்துள்ளார்கள். சகோதரர்கள் அனைவரும் அவருக்காக பிரார்த்தனை புரியுமாறும் , ஒத்துழைப்பு, நல்குமாரும் அன்போடு கேட்டுக்கொள்கிறோம்.",
             "image":"/images/news/news5.jpg",
             "date":"01-07-2025"
+        },
+        {
+             "id":6,
+            "title":"title6",
+            "content":"content6",
+            "image":"",
+            "date":"01-07-2025"
+        },
+        {
+              "id":7,
+            "title":"title7",
+            "content":"content7",
+            "image":"",
+            "date":"01-07-2025"
+        },
+        {
+             "id":8,
+            "title":"title8",
+            "content":"content8",
+            "image":"",
+            "date":"01-07-2025"
+            
+        },
+        {
+             "id":9,
+            "title":"title9",
+            "content":"content9",
+            "image":"",
+            "date":"01-07-2025"
+        },
+        {
+             "id":10,
+            "title":"title10",
+            "content":"content10",
+            "image":"",
+            "date":"01-07-2025"
         }
         ]
     ,"event":[
@@ -90,7 +126,7 @@
     },{
         "id":5,
         "districtName":"Manapparai",
-        "presidentName":"H.Mohammed Ubaithulla",
+        "presidentName":"Mohammed Ubaithulla H",
         "presidentImage":"/images/districtLeaders/manapparai.jpg",
         "secretaryName":"",
         "secretaryImage":"",
@@ -125,7 +161,7 @@
     },
         {"id":8,
         "districtName":"Thanjavur",
-        "presidentName":"M.Israr Ahamed",
+        "presidentName":"Israr Ahamed M",
         "presidentImage":"/images/districtLeaders/thanjavur.JPG",
         "secretaryName":"Salmankhan",
         "secretaryImage":"/images/districtLeaders/thanjavurS.jpg",
@@ -137,7 +173,7 @@
     },{
         "id":9,
         "districtName":"Theni",
-        "presidentName":"N.Harish",
+        "presidentName":"Harish N",
         "presidentImage":"/images/districtLeaders/theni.jpg",
         "secretaryName":"",
         "secretaryImage":"",
@@ -215,7 +251,7 @@
     "state":[
         {
             "id":1,
-            "presidentName":"M.Mohamed Riyaz",
+            "presidentName":"Mohamed Riyaz M",
             "presidentImage":"/images/districtLeaders/riyaz.png",
             "secretaryName":"Habeeb Rahman",
             "secretaryImage":"/images/districtLeaders/habeeb.jpg",
@@ -247,7 +283,7 @@
        
         {
           "id":1,
-            "presidentName":"A.Kamaludeen",
+            "presidentName":"Kamaludeen A",
             "presidentImage":"/images/pastLeaders/Kamaludeen.jpg",
             "secretaryName":"Syed Mohamed Hussain",
             "secretaryImage":"/images/pastLeaders/syedMohamed.jpg",
